@@ -2,3 +2,6 @@
 /hr-payroll/.idea/
 /hr-worker/.idea/
 /hr-worker/target/
+/hr-eureka-server/target/
+/hr-eureka-server/.idea/
+/.idea/
