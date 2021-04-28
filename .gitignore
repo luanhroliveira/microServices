@@ -5,3 +5,4 @@
 /hr-eureka-server/target/
 /hr-eureka-server/.idea/
 /.idea/
+/hr-api-gateway-zuul/target/
