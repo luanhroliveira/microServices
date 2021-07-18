@@ -1,5 +1,5 @@
 INSERT INTO TB_USER (name, email, password)
-VALUES ('Nina Brown', 'nina@gmail.com', '$2a$10$NYFZ/8WaQ3Qb6FCs.00jce4nxX9w7AkgWVsQCG6oUwTAcZqP9Flqu');
+VALUES ('Nina Brown', 'nina@gmail.com', '$2a$10$5aftYpZIf55.uxUePM3b4eaMbPaK936dVa3roLCSj5nyAjfceUjHC');
 INSERT INTO TB_USER (name, email, password)
 VALUES ('Leia Red', 'leia@gmail.com', '$2a$10$NYFZ/8WaQ3Qb6FCs.00jce4nxX9w7AkgWVsQCG6oUwTAcZqP9Flqu');
 
